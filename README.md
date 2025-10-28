@@ -1,4 +1,4 @@
-![Nextcloud Logo](images/nextcloud-logo.png)
+<img src="images/nextcloud-logo.png" alt="Nextcloud Logo" width="200"/>
 
 ## 🛠️ Tecnologías y versiones
 
