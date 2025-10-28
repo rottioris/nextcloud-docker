@@ -1,0 +1,27 @@
+# Datos sensibles / persistentes
+db/
+nextcloud/config/config.php
+nextcloud/data/
+nextcloud/custom_apps/
+nextcloud/themes/
+nextcloud/updater/
+
+# Archivos temporales / sistema
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Docker
+*.pid
+*.sock
+
+# Cloudflare Tunnel credentials
+~/.cloudflared/
+*.json
+
+# Editor y sistema
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
